@@ -1,0 +1,8 @@
+E:\C#Workspace\20180228test_Win\bin\Debug\20180228test_Win.exe.config
+E:\C#Workspace\20180228test_Win\bin\Debug\20180228test_Win.exe
+E:\C#Workspace\20180228test_Win\bin\Debug\20180228test_Win.pdb
+E:\C#Workspace\20180228test_Win\obj\Debug\_20180228test_Win.Form1.resources
+E:\C#Workspace\20180228test_Win\obj\Debug\_20180228test_Win.Properties.Resources.resources
+E:\C#Workspace\20180228test_Win\obj\Debug\20180228test_Win.csproj.GenerateResource.Cache
+E:\C#Workspace\20180228test_Win\obj\Debug\20180228test_Win.exe
+E:\C#Workspace\20180228test_Win\obj\Debug\20180228test_Win.pdb
